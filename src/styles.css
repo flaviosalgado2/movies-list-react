@@ -1,0 +1,14 @@
+.movie-item {
+  background: #eee;
+  padding: 10px 30px;
+  margin: 30px;
+}
+
+.movie-item img {
+  max-width: 100%;
+}
+
+.main-header {
+  text-align: center;
+  padding: 50px;
+}
